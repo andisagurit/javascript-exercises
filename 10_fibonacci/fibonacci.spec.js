@@ -1,5 +1,6 @@
 const fibonacci = require('./fibonacci')
 
+//remove the word test
 describe('fibonacci', () => {
   test('4th fibonacci number is 3', () => {
     expect(fibonacci(4)).toBe(3);

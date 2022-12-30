@@ -1,5 +1,6 @@
 const calculator = require('./calculator');
 
+//remove the word test
 describe('add', () => {
 	test('adds 0 and 0', () => {
 		expect(calculator.add(0,0)).toBe(0);

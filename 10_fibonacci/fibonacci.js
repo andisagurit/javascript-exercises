@@ -11,5 +11,5 @@ const fibonacci = function(count) {
     return b;
   };
 
-// Do not edit below this line
+// Do not edit below this line..
 module.exports = fibonacci;

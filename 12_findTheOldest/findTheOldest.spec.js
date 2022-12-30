@@ -1,5 +1,6 @@
 const findTheOldest = require('./findTheOldest')
 
+//remove the word test
 describe('findTheOldest', () => {
   test('finds the oldest person!', () => {
     const people = [

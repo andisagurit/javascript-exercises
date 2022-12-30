@@ -1,5 +1,6 @@
 const sumAll = require('./sumAll')
 
+//remove the word test
 describe('sumAll', () => {
   test('sums numbers within the range', () => {
     expect(sumAll(1, 4)).toEqual(10);

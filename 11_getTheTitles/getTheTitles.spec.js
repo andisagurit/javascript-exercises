@@ -1,5 +1,6 @@
 const getTheTitles = require('./getTheTitles')
 
+//remove the word test
 describe('getTheTitles', () => {
     const books = [
       {

@@ -1,5 +1,6 @@
 const palindromes = require('./palindromes')
 
+//remove the word test
 describe('palindromes', () => {
   test('works with single words', () => {
     expect(palindromes('racecar')).toBe(true);

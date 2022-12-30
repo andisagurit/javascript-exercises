@@ -1,5 +1,6 @@
 const repeatString = require('./repeatString')
 
+//remove the word test
 describe('repeatString', () => {
   test('repeats the string', () => {
     expect(repeatString('hey', 3)).toEqual('heyheyhey');

@@ -1,5 +1,6 @@
 const reverseString = require('./reverseString')
 
+//remove the word test
 describe('reverseString', () => {
   test('reverses single word', () => {
     expect(reverseString('hello')).toEqual('olleh');

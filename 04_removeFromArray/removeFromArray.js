@@ -10,5 +10,5 @@ const removeFromArray = function(...str) {
     return newArray;
 };
 
-// Do not edit below this line
+// Do not edit below this line..
 module.exports = removeFromArray;

@@ -1,5 +1,6 @@
 const {convertToCelsius, convertToFahrenheit} = require('./tempConversion')
 
+//remove the word test
 describe('convertToCelsius', () => {
   test('works', () => {
     expect(convertToCelsius(32)).toEqual(0);

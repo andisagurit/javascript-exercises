@@ -30,7 +30,7 @@ const factorial = function(num) {
   return product;
 };
 
-// Do not edit below this line
+// Do not edit below this line..
 module.exports = {
   add,
   subtract,
